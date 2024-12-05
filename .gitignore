@@ -1,0 +1,10 @@
+### build path
+target/
+dist/
+out/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
